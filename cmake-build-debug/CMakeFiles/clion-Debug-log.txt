@@ -1,0 +1,10 @@
+D:\Software\TOOLBOX\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Software/TOOLBOX/apps/CLion/ch-0/223.8617.54/bin/ninja/win/x64/ninja.exe -G Ninja -S "D:\Third Year\SECOND_SEM\Compiler\assignment1c" -B "D:\Third Year\SECOND_SEM\Compiler\assignment1c\cmake-build-debug"
+-- The C compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/msys64/mingw64/bin/cc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Third Year/SECOND_SEM/Compiler/assignment1c/cmake-build-debug
